@@ -14,8 +14,10 @@ More projects on the way.
 
 ### What I work with
 
-Python (pandas, matplotlib, geopandas), SQL, and the statistics behind the numbers: hypothesis testing, regression, A/B testing.
+Python (pandas, matplotlib, geopandas), SQL, and Data Science: hypothesis testing, regression, A/B testing.
 
 ### Contact
 
 yusyucel04@gmail.com
+
+www.linkedin.com/in/yusuf-yücel-52260525b
